@@ -58,7 +58,7 @@
     "koa-router": "7.2.1",
     "lodash": "4.17.4",
     "mailgun-js": "0.16.0",
-    "moment": "2.19.4",
+    "moment": "2.29.2",
     "moment-duration-format": "2.2.2",
     "moment-timezone": "0.5.21",
     "mongodb": "3.0.1",
