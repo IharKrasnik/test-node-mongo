@@ -47,7 +47,7 @@
     "joi": "13.0.1",
     "json2csv": "3.11.5",
     "jsonwebtoken": "8.1.0",
-    "jszip": "3.1.5",
+    "jszip": "3.7.0",
     "kcors": "2.2.1",
     "koa": "2.4.1",
     "koa-basic-auth": "3.0.0",
